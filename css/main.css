@@ -6,7 +6,7 @@ html {
   margin: 0;
 }
 
-*::before, *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
@@ -42,6 +42,7 @@ nav ul {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
+  margin: auto;
 }
 
 a:hover {
