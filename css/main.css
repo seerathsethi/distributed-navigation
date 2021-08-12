@@ -43,3 +43,14 @@ nav ul {
   flex-direction: row;
   justify-content: flex-end;
 }
+
+a:hover {
+  color: #fff;
+}
+
+nav a {
+  margin-right: 1rem;
+  padding-left: 1rem;
+  text-decoration: none;
+  color: #0074d9;
+}
